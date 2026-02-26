@@ -1,0 +1,3 @@
+@echo off
+echo Starting Liime Messenger...
+npm run dev

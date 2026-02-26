@@ -1,0 +1,5 @@
+{
+  "name": "Liime Web",
+  "description": "A modern messaging app with Material You and Liquid Glass themes.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
